@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1340368ac97f788788f678969a6e241f",
+    "revision": "bbc983ec5072b2ee568e85340c69904d",
     "url": "/trabeya-app/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/trabeya-app/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "9a74d5e93eb99916f44a",
-    "url": "/trabeya-app/static/css/main.0348c31b.chunk.css"
+    "revision": "678cd4044af091f60267",
+    "url": "/trabeya-app/static/css/main.cb8bbe5f.chunk.css"
   },
   {
     "revision": "675676cca76d990c3017",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/trabeya-app/static/js/2.b52a7134.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9a74d5e93eb99916f44a",
-    "url": "/trabeya-app/static/js/main.2a44c18e.chunk.js"
+    "revision": "678cd4044af091f60267",
+    "url": "/trabeya-app/static/js/main.3085012a.chunk.js"
   },
   {
     "revision": "c3745f1d1cb2b721a759",

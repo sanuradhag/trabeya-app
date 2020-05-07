@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/trabeya-app/static/css/main.0348c31b.chunk.css",
-    "main.js": "/trabeya-app/static/js/main.2a44c18e.chunk.js",
-    "main.js.map": "/trabeya-app/static/js/main.2a44c18e.chunk.js.map",
+    "main.css": "/trabeya-app/static/css/main.cb8bbe5f.chunk.css",
+    "main.js": "/trabeya-app/static/js/main.3085012a.chunk.js",
+    "main.js.map": "/trabeya-app/static/js/main.3085012a.chunk.js.map",
     "runtime-main.js": "/trabeya-app/static/js/runtime-main.3558a6e8.js",
     "runtime-main.js.map": "/trabeya-app/static/js/runtime-main.3558a6e8.js.map",
     "static/css/2.69121389.chunk.css": "/trabeya-app/static/css/2.69121389.chunk.css",
     "static/js/2.b52a7134.chunk.js": "/trabeya-app/static/js/2.b52a7134.chunk.js",
     "static/js/2.b52a7134.chunk.js.map": "/trabeya-app/static/js/2.b52a7134.chunk.js.map",
     "index.html": "/trabeya-app/index.html",
-    "precache-manifest.ae74a22cb3400c04f0b0366b2da86495.js": "/trabeya-app/precache-manifest.ae74a22cb3400c04f0b0366b2da86495.js",
+    "precache-manifest.b1b81cb9292ed74453876068ecd4ba16.js": "/trabeya-app/precache-manifest.b1b81cb9292ed74453876068ecd4ba16.js",
     "service-worker.js": "/trabeya-app/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/trabeya-app/static/css/2.69121389.chunk.css.map",
-    "static/css/main.0348c31b.chunk.css.map": "/trabeya-app/static/css/main.0348c31b.chunk.css.map",
+    "static/css/main.cb8bbe5f.chunk.css.map": "/trabeya-app/static/css/main.cb8bbe5f.chunk.css.map",
     "static/js/2.b52a7134.chunk.js.LICENSE.txt": "/trabeya-app/static/js/2.b52a7134.chunk.js.LICENSE.txt",
     "static/media/avatar.png": "/trabeya-app/static/media/avatar.e67e358c.png",
     "static/media/form-logo.jpg": "/trabeya-app/static/media/form-logo.42c687fa.jpg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.3558a6e8.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.b52a7134.chunk.js",
-    "static/css/main.0348c31b.chunk.css",
-    "static/js/main.2a44c18e.chunk.js"
+    "static/css/main.cb8bbe5f.chunk.css",
+    "static/js/main.3085012a.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/trabeya-app/precache-manifest.ae74a22cb3400c04f0b0366b2da86495.js"
+  "/trabeya-app/precache-manifest.b1b81cb9292ed74453876068ecd4ba16.js"
 );
 
 self.addEventListener('message', (event) => {
