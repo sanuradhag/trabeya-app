@@ -94,6 +94,7 @@ class SidePane extends Component {
         title={navItem.title}
         icon={navItem.icon}
         selected={navItem.selected}
+        mini={!this.state.expand}
       />
     ));
   }
