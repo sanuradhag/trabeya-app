@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/%7Btrabeya-app%7D/static/css/main.0348c31b.chunk.css",
+    "main.js": "/%7Btrabeya-app%7D/static/js/main.6b624b3a.chunk.js",
+    "main.js.map": "/%7Btrabeya-app%7D/static/js/main.6b624b3a.chunk.js.map",
+    "runtime-main.js": "/%7Btrabeya-app%7D/static/js/runtime-main.b7a155bd.js",
+    "runtime-main.js.map": "/%7Btrabeya-app%7D/static/js/runtime-main.b7a155bd.js.map",
+    "static/css/2.69121389.chunk.css": "/%7Btrabeya-app%7D/static/css/2.69121389.chunk.css",
+    "static/js/2.b52a7134.chunk.js": "/%7Btrabeya-app%7D/static/js/2.b52a7134.chunk.js",
+    "static/js/2.b52a7134.chunk.js.map": "/%7Btrabeya-app%7D/static/js/2.b52a7134.chunk.js.map",
+    "index.html": "/%7Btrabeya-app%7D/index.html",
+    "precache-manifest.6e506366053f056678802f7af45ac459.js": "/%7Btrabeya-app%7D/precache-manifest.6e506366053f056678802f7af45ac459.js",
+    "service-worker.js": "/%7Btrabeya-app%7D/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/%7Btrabeya-app%7D/static/css/2.69121389.chunk.css.map",
+    "static/css/main.0348c31b.chunk.css.map": "/%7Btrabeya-app%7D/static/css/main.0348c31b.chunk.css.map",
+    "static/js/2.b52a7134.chunk.js.LICENSE.txt": "/%7Btrabeya-app%7D/static/js/2.b52a7134.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/%7Btrabeya-app%7D/static/media/avatar.e67e358c.png",
+    "static/media/form-logo.jpg": "/%7Btrabeya-app%7D/static/media/form-logo.42c687fa.jpg",
+    "static/media/password-icn.png": "/%7Btrabeya-app%7D/static/media/password-icn.76bfe709.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7a155bd.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.b52a7134.chunk.js",
+    "static/css/main.0348c31b.chunk.css",
+    "static/js/main.6b624b3a.chunk.js"
+  ]
+}
